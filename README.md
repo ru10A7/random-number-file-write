@@ -1,0 +1,1 @@
+I have a script that creates a .txt file "asoiu.txt" where there are the names of +- 27 people (students) and when the script runs, it creates a list with the 27 names and assigns them points randomly
